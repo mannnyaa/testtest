@@ -1,8 +1,13 @@
 {
   "frame": {
+    "name": "h",
     "version": "1",
-    "name": "HelloWorld",
-    "homeUrl": "f-demo.vercel.app/",
-    "imageUrl": "f-demo.vercel.app/logo.png"
+    "iconUrl": "https://f-demo.vercel.app/logo.png",
+    "homeUrl": "https://f-demo.vercel.app/logo.png",
+    "subtitle": "h",
+    "description": "h",
+    "primaryCategory": "games",
+    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
+    "splashBackgroundColor": "#ffffff"
   }
 }
