@@ -2,7 +2,7 @@
   "frame": {
     "version": "1",
     "name": "HelloWorld",
-    "homeUrl": " TUNNEL/",
-    "imageUrl": " TUNNEL/logo.png"
+    "homeUrl": " f-demo.vercel.app/",
+    "imageUrl": " f-demo.vercel.app/logo.png"
   }
 }
