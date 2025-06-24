@@ -2,7 +2,7 @@
   "frame": {
     "version": "1",
     "name": "HelloWorld",
-    "homeUrl": " f-demo.vercel.app/",
-    "imageUrl": " f-demo.vercel.app/logo.png"
+    "homeUrl": "f-demo.vercel.app/",
+    "imageUrl": "f-demo.vercel.app/logo.png"
   }
 }
