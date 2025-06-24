@@ -1,13 +1,8 @@
 {
   "frame": {
     "version": "1",
-    "name": "XXX",
+    "name": "HelloWorld",
     "homeUrl": " TUNNEL/",
-    "buttonTitle": "xxx!",
-    "splashImageUrl": " TUNNEL/android-chrome-512x512.png",
-    "splashBackgroundColor": "#8366eb",
-    "heroImageUrl": "TUNNEL/bg.jpg",
-    "iconUrl": " TUNNEL/android-chrome-512x512.png",
-    "imageUrl": " TUNNEL/logo_2.png"
+    "imageUrl": " TUNNEL/logo.png"
   }
 }

@@ -11,15 +11,14 @@ function fcFrameMeta(): Plugin {
     transformIndexHtml(html: string) {
       const config = {
         version: 'next',
-        imageUrl: 'TUNNEL/logo_2.png',
+        imageUrl: 'TUNNEL/logo.png',
         button: {
-          title: 'Play!',
+          title: '🚩 Start',
           action: {
             type: 'launch_frame',
-            name: 'XXX',
+            name: 'HelloWorld',
             url: `TUNNEL/?v=${appVersion}`, 
-            splashImageUrl: 'TUNNEL/logo_2.png',
-            splashBackgroundColor: '#8366eb',
+            splashImageUrl: 'TUNNEL/logo.png'
           },
         },
       };
