@@ -1,14 +1,14 @@
 {
   "frame": {
-    "name": "h",
+    "name": "test",
     "version": "1",
-    "iconUrl": "https://testtest-blue-five.vercel.app",
+    "iconUrl": "https://testtest-blue-five.vercel.app/logo.png",
     "homeUrl": "https://testtest-blue-five.vercel.app",
-    "subtitle": "h",
-    "description": "h",
-    "primaryCategory": "games",
-    "splashImageUrl": "https://testtest-blue-five.vercel.app",
-    "splashBackgroundColor": "#ffffff"
+    "splashImageUrl": "https://testtest-blue-five.vercel.app/logo.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "test",
+    "description": "test",
+    "primaryCategory": "games"
   },
   {
   "accountAssociation": {
