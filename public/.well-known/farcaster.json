@@ -10,11 +10,4 @@
     "splashImageUrl": "https://testtest-blue-five.vercel.app",
     "splashBackgroundColor": "#ffffff"
   }
-{
-  "accountAssociation": {
-    "header": "eyJmaWQiOjY4MDY2MSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDA2ZDAwQjM2RTlFQkUyMTVFNDBGYjAzRGExQzlhYjYzMTQzQ2Q0ZTgifQ",
-    "payload": "eyJkb21haW4iOiJ0ZXN0dGVzdC1ibHVlLWZpdmUudmVyY2VsLmFwcCJ9",
-    "signature": "MHhmOTgxNTFkOGU0YmU2MDQxMjBkMWFmNzU5M2QyY2Y3NWUyNWI4ZjQ4OGEzMGM2YjBjM2E4ZTI3NzFmYWQ3OTE0NmI5ODBjMzMzOGI1MDE4NjNjYWIxNjdiM2E5ZTAyOWQ5OWI4NjdkZGU5YjcwMjUzOTM2ZDE4YzcyMjY5NzM0YTFj"
-  }
-}
 }
