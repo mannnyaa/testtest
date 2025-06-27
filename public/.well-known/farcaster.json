@@ -2,12 +2,12 @@
   "frame": {
     "name": "h",
     "version": "1",
-    "iconUrl": "https://f-demo.vercel.app/logo.png",
-    "homeUrl": "https://f-demo.vercel.app/logo.png",
+    "iconUrl": "https://testtest-blue-five.vercel.app",
+    "homeUrl": "https://testtest-blue-five.vercel.app",
     "subtitle": "h",
     "description": "h",
     "primaryCategory": "games",
-    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
+    "splashImageUrl": "https://testtest-blue-five.vercel.app",
     "splashBackgroundColor": "#ffffff"
   }
 }
